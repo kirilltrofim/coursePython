@@ -257,6 +257,7 @@ footer nav a:hover {
   margin: 80px;
 }
 .testimonials-container {
+  text-align: center;
   max-width: 960px;
   margin: 60px auto;
   overflow: hidden;
